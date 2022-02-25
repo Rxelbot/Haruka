@@ -7,6 +7,7 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 // setting
 global.ownername ="iRexus"
 global.ownernumber = "6281299792351"
+glohal.ownernumherr = "+6285737143507"
 global.botname = "iRexus"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
